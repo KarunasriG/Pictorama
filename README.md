@@ -17,7 +17,7 @@ Pictorama is a photo curation app that lets users search for images using the **
 
 ## **Technologies Used**  
 - **Backend**: Node.js, Express.js  
-- **Database**: SQLite, Sequelize (ORM)  
+- **Database**: Supabase (PostgreSQL), Sequelize (ORM) 
 - **API Integration**: Unsplash API  
 - **Testing**: Jest, Supertest  
 
@@ -37,7 +37,15 @@ Pictorama is a photo curation app that lets users search for images using the **
 
 3. Add your Unsplash API key to `.env`:  
    ```env
+   # Unsplash API Key
    UNSPLASH_ACCESS_KEY=your_unsplash_access_key
+
+   # Supabase Database Credentials
+   DB_USER=your_database_user
+   DB_PASSWORD=your_database_password
+   DB_NAME=postgres
+   DB_HOST=your_database_host
+   DB_PORT=5432
    ```
 
 4. Set up the database:  
