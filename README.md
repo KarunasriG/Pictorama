@@ -116,4 +116,23 @@ For detailed API response examples, refer to the **[Google Doc](https://docs.goo
 Run tests with:  
 ```bash
 npm test
-``` 
+```
+
+Tests are written using **Jest** and **Supertest** and cover:  
+- API endpoints  
+- Database operations  
+- Validation logic  
+
+---
+
+## **License**  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+## **Acknowledgements**  
+- **Unsplash** for providing the amazing photo API.  
+- **Sequelize** for making database management a breeze.  
+- **Node.js** and **Express.js** for powering the backend.  
+
+---
