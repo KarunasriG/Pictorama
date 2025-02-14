@@ -107,7 +107,7 @@ Pictorama is a photo curation app that lets users search for images using the **
 ---
 
 ## **API Response Examples**  
-For detailed API response examples, refer to the **[Google Doc](https://docs.google.com/document/d/1cOqnIpev29uv4zNyR9XMeEfYmFS6MEQzQI9BlfdItSM/edit?usp=sharing)**.  
+For detailed API response examples, refer to the **[Google Doc](https://docs.google.com/document/d/17LbHVV7lP7Ae2Soy6E_R1DqdVScu3eOpZXOC9QXy6_E/edit?usp=sharing)**.  
 
 ---
 
