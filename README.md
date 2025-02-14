@@ -51,7 +51,6 @@ Pictorama is a photo curation app that lets users search for images using the **
 4. Set up the database:  
    ```bash
    npx sequelize-cli db:migrate
-   npx sequelize-cli db:seed:all
    ```
 
 5. Start the server:  
